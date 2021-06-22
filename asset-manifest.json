@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/e-ricksaw/static/css/main.ec679300.chunk.css",
-    "main.js": "/e-ricksaw/static/js/main.8526ec48.chunk.js",
-    "main.js.map": "/e-ricksaw/static/js/main.8526ec48.chunk.js.map",
-    "runtime-main.js": "/e-ricksaw/static/js/runtime-main.575013d8.js",
-    "runtime-main.js.map": "/e-ricksaw/static/js/runtime-main.575013d8.js.map",
+    "main.css": "/e-ricksaw/static/css/main.7f1f28d7.chunk.css",
+    "main.js": "/e-ricksaw/static/js/main.e6e23b22.chunk.js",
+    "main.js.map": "/e-ricksaw/static/js/main.e6e23b22.chunk.js.map",
+    "runtime-main.js": "/e-ricksaw/static/js/runtime-main.3b17cccf.js",
+    "runtime-main.js.map": "/e-ricksaw/static/js/runtime-main.3b17cccf.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/e-ricksaw/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0b105270.chunk.js": "/e-ricksaw/static/js/2.0b105270.chunk.js",
-    "static/js/2.0b105270.chunk.js.map": "/e-ricksaw/static/js/2.0b105270.chunk.js.map",
-    "static/js/3.ec80961a.chunk.js": "/e-ricksaw/static/js/3.ec80961a.chunk.js",
-    "static/js/3.ec80961a.chunk.js.map": "/e-ricksaw/static/js/3.ec80961a.chunk.js.map",
+    "static/js/2.9354dc66.chunk.js": "/e-ricksaw/static/js/2.9354dc66.chunk.js",
+    "static/js/2.9354dc66.chunk.js.map": "/e-ricksaw/static/js/2.9354dc66.chunk.js.map",
+    "static/js/3.5d0ba062.chunk.js": "/e-ricksaw/static/js/3.5d0ba062.chunk.js",
+    "static/js/3.5d0ba062.chunk.js.map": "/e-ricksaw/static/js/3.5d0ba062.chunk.js.map",
     "index.html": "/e-ricksaw/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/e-ricksaw/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.ec679300.chunk.css.map": "/e-ricksaw/static/css/main.ec679300.chunk.css.map",
-    "static/js/2.0b105270.chunk.js.LICENSE.txt": "/e-ricksaw/static/js/2.0b105270.chunk.js.LICENSE.txt",
+    "static/css/main.7f1f28d7.chunk.css.map": "/e-ricksaw/static/css/main.7f1f28d7.chunk.css.map",
+    "static/js/2.9354dc66.chunk.js.LICENSE.txt": "/e-ricksaw/static/js/2.9354dc66.chunk.js.LICENSE.txt",
     "static/media/11.f33abfcf.jpg": "/e-ricksaw/static/media/11.f33abfcf.jpg",
     "static/media/12.54264762.jpg": "/e-ricksaw/static/media/12.54264762.jpg",
     "static/media/13.712e03c2.jpg": "/e-ricksaw/static/media/13.712e03c2.jpg",
@@ -23,10 +23,10 @@
     "static/media/undraw-contact.40d2e143.svg": "/e-ricksaw/static/media/undraw-contact.40d2e143.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.575013d8.js",
+    "static/js/runtime-main.3b17cccf.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.0b105270.chunk.js",
-    "static/css/main.ec679300.chunk.css",
-    "static/js/main.8526ec48.chunk.js"
+    "static/js/2.9354dc66.chunk.js",
+    "static/css/main.7f1f28d7.chunk.css",
+    "static/js/main.e6e23b22.chunk.js"
   ]
 }
