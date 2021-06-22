@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/e-ricksaw/static/css/main.717a48d0.chunk.css",
-    "main.js": "/e-ricksaw/static/js/main.f37efc8e.chunk.js",
-    "main.js.map": "/e-ricksaw/static/js/main.f37efc8e.chunk.js.map",
+    "main.css": "/e-ricksaw/static/css/main.329d485b.chunk.css",
+    "main.js": "/e-ricksaw/static/js/main.53861117.chunk.js",
+    "main.js.map": "/e-ricksaw/static/js/main.53861117.chunk.js.map",
     "runtime-main.js": "/e-ricksaw/static/js/runtime-main.3b17cccf.js",
     "runtime-main.js.map": "/e-ricksaw/static/js/runtime-main.3b17cccf.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/e-ricksaw/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5d0ba062.chunk.js.map": "/e-ricksaw/static/js/3.5d0ba062.chunk.js.map",
     "index.html": "/e-ricksaw/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/e-ricksaw/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.717a48d0.chunk.css.map": "/e-ricksaw/static/css/main.717a48d0.chunk.css.map",
+    "static/css/main.329d485b.chunk.css.map": "/e-ricksaw/static/css/main.329d485b.chunk.css.map",
     "static/js/2.2244f43f.chunk.js.LICENSE.txt": "/e-ricksaw/static/js/2.2244f43f.chunk.js.LICENSE.txt",
     "static/media/11.f33abfcf.jpg": "/e-ricksaw/static/media/11.f33abfcf.jpg",
     "static/media/12.54264762.jpg": "/e-ricksaw/static/media/12.54264762.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.3b17cccf.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2244f43f.chunk.js",
-    "static/css/main.717a48d0.chunk.css",
-    "static/js/main.f37efc8e.chunk.js"
+    "static/css/main.329d485b.chunk.css",
+    "static/js/main.53861117.chunk.js"
   ]
 }
