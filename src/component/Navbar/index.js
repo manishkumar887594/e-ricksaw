@@ -1,7 +1,7 @@
 
 import '../../pages/App.css';
 
-import e from './11.jpg'
+
 
 
 
@@ -11,24 +11,32 @@ const Navbar = ({ history }) => (<div>
 
 
 
-    <div class="container-fluid " style={{borderRadius:"20px", width: "2500px",height: "150px"}}>
+    <div class="container-fluid " style={{borderRadius:"20px", width: "1400px",height: "50px"}}>
       <div class="row">
   
-            <div > <div class="navbar navbar-dark bg-dark"  style={{width:'100%' ,  position: "fixed",   display: "block",  backgroundImage: `url(${e})`}}>
+            <div > <div class="navbar navbar-dark bg-info"  style={{width:'100%',height: "70px" ,marginbottom:'5px',  position: "fixed",   display: "block"}}>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
-                <nav style={{alignContent:"centre"}}>           
-                  <div class="mm-toggle-wrap">
-                    <div class="mm-toggle"><i class="fa fa-bars"></i><span class="mm-label">Menu</span> </div>
-                  </div>
-                  <div class="nav-inner"> 
-  
-                    <ul id="nav" class="hidden-xs">
+                <nav style={{JustifyItems:"centre"}}>           
+                <ol class="flex" style={{display:"flex",liststyle: "none",textcolor:"black"}} >
             
-                    <button style={{borderRadius:"20px",fontSize:"25px",width:"75px",height:"45px",opacity:"0.6"}}>  <li class="mega-menu"> <a class="level-top" href="/"><span>Home</span></a></li></button>
-                    <button style={{borderRadius:"20px",fontSize:"25px",width:"75px",height:"45px",opacity:"0.6"}}> <li class="mega-menu"> <a class="level-top" href="/product"><span>Product</span></a></li></button>
-                    <button style={{borderRadius:"20px",fontSize:"25px",width:"75px",height:"45px",opacity:"0.6"}}> <li class="fl-custom-tabmenulink mega-menu"> <a href="/About-us" class="level-top"> <span>About us</span> </a></li></button>
-                    <button style={{borderRadius:"20px",fontSize:"25px",width:"75px",height:"45px",opacity:"0.6"}}> <li class="fl-custom-tabmenulink mega-menu"> <a href="/contact" class="level-top"> <span>Contact</span> </a></li></button>
+          <a href="/" > <span>
+<font face="Arial" fontSize="100px" color="black"><b><h3>Home</h3></b></font></span> </a>
+<a href="/#Specs" ><font face="Arial" fontSize="100px" color="black"><b><h3>Specification</h3></b></font></a>
+      <a href="/product" ><font face="Arial" fontSize="100px" color="black"><b><h3>product</h3></b></font></a>
+      <a href="/#about" ><font face="Arial" fontSize="100px" color="black"><b><h3>About-us</h3></b></font></a>
+      <a href="/#contact" ><font face="Arial" fontSize="100px" color="black"><b><h3>Contact</h3></b></font></a>
+</ol>
+
+                  <div> 
+  
+                    <ul id="nav" >
+            
+                      <li class="fl-custom-tabmenulink mega-menu"> <a href="/" > <span>Home</span> </a></li>
+                      <li class="fl-custom-tabmenulink mega-menu"> <a href="/product" class="level-top"> <span>product</span> </a></li>
+                      <li class="fl-custom-tabmenulink mega-menu"> <a href="/About-us" class="level-top"> <span>About-us</span> </a></li>
+                      <li class="fl-custom-tabmenulink mega-menu"> <a href="/#contact" class="level-top"> <span>Contact</span> </a></li>
+
 
                      
 
