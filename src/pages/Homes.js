@@ -65,7 +65,7 @@ function Homes() {
     backgroundColor: '#000000',
     height: .5,
     borderColor : '#000000'
-}}/><div id="top">
+}}/><div id="top"  style={{ animationDuration: '4s'}}>
 <p class="text1" >Future electronics</p><hr  style={{
     color: '#000000',
     backgroundColor: '#000000',
@@ -84,7 +84,7 @@ function Homes() {
   <div class="col-5"></div>
   <div class="col-5"></div> <div class="col-2"><b><button  style={{"position":'fixed'}} ><a href="/#top"><img src={l} style ={{height:"20px",width:"15px"}}/></a></button></b>
 </div>
-    </div></div></div>
+    </div></div></div><div class=" square">
 <Carousel fade style={{height:"400px"}}>
 <Carousel.Item>
   <img
@@ -133,7 +133,7 @@ function Homes() {
   </Carousel.Caption>
 </Carousel.Item>
 </Carousel>
-
+</div>
 
 <br></br>
   <div class="content">
@@ -199,11 +199,137 @@ function Homes() {
  <h5>Brake system : Front Mechanical type/Rear Mechanical type</h5>
  <h5>Shocker system : Leaf Spring Shocker</h5></div>
        </div>
+       
+       <div class="row">
+        
+         
+         <div class="col-6" id='Specs'><b><h1>specification</h1></b><br></br>
+<h5>Size : 2790*980*1700</h5> 
+ <h5>Wheelbase : 2000</h5>
+<h5> Controller : 48V/20A</h5>
+ <h5>Motor : 48V/1200W</h5>
+ <h5>Battery type : 100AH/135AH (4NOS)</h5>
+ <h5>Tyre : 375-12 ALLOY RIM (OPTIONAL)</h5>
+ <h5>Speed : 25 KMP/H</h5>
+ <h5>Distance per charge : 80 - 110 KM</h5>
+ <h5>Solar panel power : N/A</h5>
+
+<h5> Max GVW : 688 KG</h5>
+ <h5>Max FAW : 150 KG</h5>
+ <h5>Brake system : Front Mechanical type/Rear Mechanical type</h5>
+ <h5>Shocker system : Leaf Spring Shocker</h5></div>
+ <div class="col-6">  <img
+    className="img d-block w-100"
+    src={b}
+    alt="First slide"
+  /></div>       </div>
+       
+       <div class="row">
+         <div class="col-6">  <img
+    className="img d-block w-100"
+    src={c}
+    alt="First slide"
+  /></div>
+         
+         <div class="col-6" id='Specs'><b><h1>specification</h1></b><br></br>
+<h5>Size : 2790*980*1700</h5> 
+ <h5>Wheelbase : 2000</h5>
+<h5> Controller : 48V/20A</h5>
+ <h5>Motor : 48V/1200W</h5>
+ <h5>Battery type : 100AH/135AH (4NOS)</h5>
+ <h5>Tyre : 375-12 ALLOY RIM (OPTIONAL)</h5>
+ <h5>Speed : 25 KMP/H</h5>
+ <h5>Distance per charge : 80 - 110 KM</h5>
+ <h5>Solar panel power : N/A</h5>
+
+<h5> Max GVW : 688 KG</h5>
+ <h5>Max FAW : 150 KG</h5>
+ <h5>Brake system : Front Mechanical type/Rear Mechanical type</h5>
+ <h5>Shocker system : Leaf Spring Shocker</h5></div>
+       </div>
+       <div id="gallery">
+         <div class="row">
+           <div class="col-3">
+        
+         </div>
+         <div class="col-1">
+        
+         </div><div class="col-3">
+        
+        </div>
+        <div class="col-1">
+       
+        </div><div class="col-3">
+        
+        </div>
+        <div class="col-1">
+       
+        </div><div class="col-3">
+        
+        </div>
+       
+
+       </div>
            <iframe title="e-ricksaw" width="1347" height="315"
 src="https://www.youtube.com/embed/mvZKCPI7Fmw">
 </iframe> 
            
 <br></br><hr/>
+<div id="gallery">
+  <h1 style={{alignItems:"center"}}>Gallery</h1 >
+         <div class="row">
+           <div class="col-3">
+        <img src={a} style={{height:'150px',width:'250px'}}/>
+         </div>
+        <div class="col-3">
+         <img src={b} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={c} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={d} style={{height:'150px',width:'250px'}}/>
+        </div>
+       </div>
+       </div><div class="row">
+         <div class="col-12">.</div>
+       </div>
+       <div class="row">
+           <div class="col-3">
+        <img src={a} style={{height:'150px',width:'250px'}}/>
+         </div>
+        <div class="col-3">
+         <img src={b} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={c} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={d} style={{height:'150px',width:'250px'}}/>
+        </div>
+      
+       
+
+       </div><div class="row">
+         <div class="col-12">.</div>
+       </div>
+       <div class="row">
+           <div class="col-3">
+        <img src={a} style={{height:'150px',width:'250px'}}/>
+         </div>
+        <div class="col-3">
+         <img src={b} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={c} style={{height:'150px',width:'250px'}}/>
+        </div>
+        <div class="col-3">
+        <img src={d} style={{height:'150px',width:'250px'}}/>
+        </div>
+      
+       
+
+       </div></div>
 <div id="contact"> <div>   
       <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
@@ -374,8 +500,7 @@ Welcome To Future Electronics</h1><br></br>
      
     
             </footer>
-             </section>
-</div>);       
+   </section></div>);       
 }
 
   
