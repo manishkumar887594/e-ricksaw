@@ -423,30 +423,20 @@ Welcome To Future Electronics</h1><br></br>
 </div>
 
 </div>
-<footer><div class="row">
-  <div class="col-3">
+<footer  style={{backgroundImage: `url(${a}) `,height:'250px',fontColor:'black'}}><div class="row">
+  <div class="col-4">
             <div >
               <h4>SHOWROOM</h4>
-             
             </div>
           </div>
-        <div class="col-3">
+        <div class="col-2">
               <h4>Quick Links</h4>
               <ul class="links">
                 <li><a title="Payment" href="#">Payment</a></li>
                 <li><a title="Shipment" href="#">Shipment</a></li>
                 <li><a title="Where is my order?" href="#">Where is my order?</a></li>
                 </ul>
-                </div><div class="col-3">
- 
-              <h4>Style Advisor</h4>
-              <ul class="links">
-                <li class="first"><a title="Your Account" href="#">Your Account</a></li>
-
-                <li><a title="Addresses" href="#">Addresses</a></li>
-                <li><a title="Orders History" href="#">Orders History</a></li>
-                </ul>
-            </div>
+                </div>
             <div class="col-3">
               <h4>Information</h4>
               <ul class="links">
