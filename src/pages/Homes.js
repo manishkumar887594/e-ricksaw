@@ -199,7 +199,7 @@ function Homes() {
  <h5>Brake system : Front Mechanical type/Rear Mechanical type</h5>
  <h5>Shocker system : Leaf Spring Shocker</h5></div>
        </div>
-       
+       <br/>
        <div class="row">
         
          
@@ -222,7 +222,7 @@ function Homes() {
     className="img d-block w-100"
     src={b}
     alt="First slide"
-  /></div>       </div>
+  /></div>    <br/>   <br/>   <br/>    </div>
        
        <div class="row">
          <div class="col-6">  <img
@@ -230,7 +230,7 @@ function Homes() {
     src={c}
     alt="First slide"
   /></div>
-         
+            <br/>   <br/>   <br/>
          <div class="col-6" id='Specs'><b><h1>specification</h1></b><br></br>
 <h5>Size : 2790*980*1700</h5> 
  <h5>Wheelbase : 2000</h5>
@@ -463,6 +463,7 @@ Welcome To Future Electronics</h1><br></br>
           <div class="row">
   <div class="col-5"></div>&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
                <div class="flex" style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
                 
                <SocialIcon url="https://facebook.com/jaketrent" />
@@ -474,6 +475,7 @@ Welcome To Future Electronics</h1><br></br>
             </div>
               <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       </p><br/>
                <div class="row"><div class="col-5"></div><br/>
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              <div class="col-3" style={{"background":"white",borderRadius:"12px",width:'190px',height:'25px',justifyItems:"center",textalign: 'center'}} class="flex">
             <p> &copy; <a href="https://manishmky.herokuapp.com/">created by Manish</a></p>
