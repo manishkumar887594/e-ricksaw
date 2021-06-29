@@ -423,32 +423,22 @@ Welcome To Future Electronics</h1><br></br>
 </div>
 
 </div>
-
-
-  <footer>    
-  <div class="newsletter-row">
-        <div class="container">
-        <div class="container" style={{   backgroundImage: "url({a})"}}>
-        <div class="row">
-          <div class="col-sm-4 col-xs-12 col-lg-4">
+<footer><div class="row">
+  <div class="col-3">
             <div >
               <h4>SHOWROOM</h4>
              
-              <div >
-  
-              </div>
             </div>
           </div>
-          <div class="col-sm-8 col-xs-12 col-lg-8">
-            <div class="footer-column">
+        <div class="col-3">
               <h4>Quick Links</h4>
               <ul class="links">
                 <li><a title="Payment" href="#">Payment</a></li>
                 <li><a title="Shipment" href="#">Shipment</a></li>
                 <li><a title="Where is my order?" href="#">Where is my order?</a></li>
                 </ul>
-            </div>
-            <div class="footer-column">
+                </div><div class="col-3">
+ 
               <h4>Style Advisor</h4>
               <ul class="links">
                 <li class="first"><a title="Your Account" href="#">Your Account</a></li>
@@ -457,53 +447,43 @@ Welcome To Future Electronics</h1><br></br>
                 <li><a title="Orders History" href="#">Orders History</a></li>
                 </ul>
             </div>
-            <div class="footer-column">
+            <div class="col-3">
               <h4>Information</h4>
               <ul class="links">
                 
                 <li><a title="History" href="#">About Us</a></li>
-
-                <li><a title="History" href="https://form.jotform.com/211645238693461">Contact Us</a></li>
+                <li><a title="/#contact" href="#">Contact</a></li>
                 <li><a title="Suppliers" href="#">Suppliers</a></li>
               </ul>
             </div>
-          </div>
+            </div>
+        
           <div class="container" style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
-        <div class="row">
-  
+          <div class="row"><p>Follow us on</p></div> <br></br><br></br><br></br><br></br></div>
+          <div class="row">
+  <div class="col-5"></div>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
                <div class="flex" style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
-                 <p>Follow us on</p><br></br>
-              <SocialIcon url="https://facebook.com/jaketrent" />
+                
+               <SocialIcon url="https://facebook.com/jaketrent" />
                <SocialIcon url="https://instagram.com/jaketrent" />
                <SocialIcon url="https://whatsapp.com/8360614435" />
                <SocialIcon url="tel:8360614435" />
                
-               </div><br></br>
-               <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       </p><br/>
-          <div class="col-xs-12 col-sm-4">
-          
-          </div>
-             </div>
-             </div>
-             </div><div class="row"><div class="col-5"></div>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               </div><br/>
+            </div>
+              <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       </p><br/>
+               <div class="row"><div class="col-5"></div><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              <div class="col-3" style={{"background":"white",borderRadius:"12px",width:'190px',height:'25px',justifyItems:"center",textalign: 'center'}} class="flex">
-            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy; <a href="https://manishmky.herokuapp.com/">created by Manish</a></p>
-            </div><div class="col-4"></div></div>
-     
-        </div>
-        
-      </div>
-      
-   </div>
-     
-     
-    
+            <p> &copy; <a href="https://manishmky.herokuapp.com/">created by Manish</a></p>
+         </div>
+            </div>
             </footer>
-   </section></div>);       
+
+</section></div>
+
+     
+   );       
 }
-
-  
-
-
 export default Homes;
