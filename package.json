@@ -22,11 +22,12 @@
     "react-social-icons": "^5.4.1",
     "styled-components": "^5.3.0",
     "web-vitals": "^1.1.2"
-  },  "scripts": {
+  },
+  "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "node app.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix E-RICKSAW && npm run build --prefix E-RICKSAW",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix blindschool && npm run build --prefix blindschool",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -50,5 +51,16 @@
   },
   "devDependencies": {
     "react-bootstrap": "^1.6.1"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishkumar887594/e-ricksaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishkumar887594/e-ricksaw/issues"
   }
 }
