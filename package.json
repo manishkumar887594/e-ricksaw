@@ -27,6 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "node app.js",
+    "Build": "npm run build",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix blindschool && npm run build --prefix blindschool",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
